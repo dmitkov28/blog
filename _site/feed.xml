@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/blog/</link>
     <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Aug 2019 17:09:03 +0200</pubDate>
-    <lastBuildDate>Sat, 03 Aug 2019 17:09:03 +0200</lastBuildDate>
+    <pubDate>Sat, 03 Aug 2019 18:44:24 +0200</pubDate>
+    <lastBuildDate>Sat, 03 Aug 2019 18:44:24 +0200</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
 
     
@@ -52,19 +52,6 @@ lacinia in lorem.&lt;/li&gt;
         
       
     
-      
-        
-          <item>
-            <title>About</title>
-            <description>&lt;p&gt;You love Minimalism, and you also love writing, Type is designed for you. Type focus on showing your content in a clean and simple way, focus on images, typography, and white space.&lt;/p&gt;
-
-&lt;p&gt;This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;jekyllrb.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.&lt;/p&gt;
-</description>
-            <link>http://localhost:4000/blog/about.html</link>
-          </item>
-        
       
     
       
