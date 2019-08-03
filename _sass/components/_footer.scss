@@ -1,0 +1,14 @@
+/*------------------------------------*\
+  Components > Footer
+\*------------------------------------*/
+
+.c-footer {
+  padding: double($base-spacing-unit) 0;
+  background-color: $bg-color-gray;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-copyright {
+  font-size: 0.6em;
+}
