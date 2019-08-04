@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/blog/</link>
     <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Aug 2019 18:44:24 +0200</pubDate>
-    <lastBuildDate>Sat, 03 Aug 2019 18:44:24 +0200</lastBuildDate>
+    <pubDate>Sat, 03 Aug 2019 20:15:55 +0200</pubDate>
+    <lastBuildDate>Sat, 03 Aug 2019 20:15:55 +0200</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
 
     
@@ -46,10 +46,40 @@ lacinia in lorem.&lt;/li&gt;
         <guid isPermaLink="true">http://localhost:4000/blog/Learning-in-Circles</guid>
       </item>
     
+      <item>
+        <title>You've been Tinderstruck</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;TL;DR:&lt;/strong&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;&lt;em&gt;Dating apps are certainly not the devil, but they’re still far from an optimal solution. Being successful on those apps is a numbers game and it can all be broken down into small conversational templates you can switch between and track. Scripted interactions can easily get boring and counterproductive.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I want to establish right from the get-go that I have no intention on shitting on dating apps and I’m certainly not going to moralize on how Tinder is the devil’s work and how people should meet in the real world like they’re supposed to. There’s a time and a place for dating apps and they’ve already proven their instrumental value more than enough to be questioned on that point. That being said, the basic mechanism of online dating imposes various functional bottlenecks that can significantly reduce the chances of some users’ success (however defined).&lt;/p&gt;
+
+&lt;h4 id=&quot;context-is-everything&quot;&gt;Context is everything&lt;/h4&gt;
+&lt;p&gt;Think about yourself. You are a complex collection of memories, attitudes and personal quirks.&lt;/p&gt;
+
+&lt;p&gt;Matches are rarely seen as human beings (this goes for both men and women)&lt;/p&gt;
+
+&lt;h4 id=&quot;conversational-judo-is-fun&quot;&gt;Conversational judo is fun&lt;/h4&gt;
+
+&lt;h4 id=&quot;scripts-are-boring&quot;&gt;Scripts are boring&lt;/h4&gt;
+
+&lt;p&gt;####&lt;/p&gt;
+</description>
+        <pubDate>Thu, 20 Jun 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/blog/Youve-been-Tinderstruck</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/Youve-been-Tinderstruck</guid>
+      </item>
+    
 
     
       
         
+      
+    
+      
+    
+      
+    
       
     
       

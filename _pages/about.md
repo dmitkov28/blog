@@ -4,8 +4,10 @@ title: About
 image: ''
 ---
 
+<strong>About me</strong> I am Dimitar and I dabble in marketing and web development. I am currently based in Stuttgart, Germany and playing around with [Jekyll](https://jekyllrb.com/) (on which this site is built on). I love science. I hate inspirational quotes over landscapes.
 
-<strong>About me</strong> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<strong>About this page</strong> I have found that writing your thoughts down in a logically coherent way helps clearing inconsistencies, filling up knowledge gaps and overall improves your mental machinery. Writing your thoughts down where everyone can see them adds an additional layer of accountability, hence this site. I am probably mostly going to babble about decision theory, economics philosophy or psychology, with the occasional book review thrown in for good measure.
 
+<strong>What's up with the title?</strong> A [weak ontology](https://en.wikipedia.org/wiki/Weak_ontology) basically means a set of concepts that are too weakly interconnected for you to be able to draw solid conclusions from them without external help which kinda mimics most of our everyday thinking. It also sounds cool.  
 
-<strong>About this page</strong> Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
+But, you know, don't read too much into it.   
