@@ -1,14 +1,12 @@
 ---
 layout: post
 title: Learning in Circles
-tags: [frontpage, jekyll, blog]
+tags: [learning, social science, education]
 image:
 permalink: /:title
 ---
 
-Ayo dis ting work?  
-
-Vix dico eius nominati cu, ex zril commodo fuisset mea. Habeo adhuc audiam ius no. In quis virtute officiis has. Vix ad honestatis accommodare, quis virtute et sit, pertinax expetenda eam id. Duo an fuisset delectus dissentias, justo altera ea per.
+>*Summary*
 
 ##### Todo
 
