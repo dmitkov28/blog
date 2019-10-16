@@ -13,7 +13,7 @@ permalink: /:title
 
 Let's first establish an oversimplified, workable model of learning on which to base some of the following speculations. I think the image of concentric circles comes pretty close to what I have in mind. I wouldn't get too caught up with it, though, since the only goal here is to propose an alternative to something I like to call the linear view of learning. It basically means what it says. Virtually every learning process you can imagine is conceptualized as a straight line, where you gradually master more complex skills and internalize the finer nuances of a field. Grades, academic degrees, certification systems are all based upon the assumption that your knowledge and skills at different points in time can be represented as a linear function. This may be true on a macro level, but it produces some serious misconceptions about day-to-day learning activity. Obviously, we tend to get better at the things we do with more practice and thus more time (cheers to you, 10,000-hours crowd), but to me this perspective doesn't really do justice to the learning process. It can also be quite dangerous, since most of us get pretty cocky once we get awarded a certain title (expert, specialist, senior something something) and end up being overconfident even when we are totally wrong (cheers to you, bias hunters). To be honest, I have some doubts as to whether words such as expert even mean something other than 'systematically performs slightly better than chance'. 
 
-<img src="/_images/posts/Concentric_Circles.png"
+<img src="https://github.com/dmitkov28/blog/blob/gh-pages/images/posts/Concentric_Circles.pngg"
      alt="Markdown Monster icon"
      style="display: block; margin: 15px auto;" />
 
