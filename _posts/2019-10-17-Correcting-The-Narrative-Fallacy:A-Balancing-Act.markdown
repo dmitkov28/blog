@@ -1,5 +1,3 @@
-# Correcting The Narrative Fallacy: A Balancing Act
-
 
 Storytelling seems to be everyone's favorite thing in recent years. It helps businesses convey their messages, it helps people convey their ideas, heck, even personalities. The more you buy into your stories though, the further you fall down the rabbit hole. More often than not we end up being slaves to our narratives. Coherence and definitiveness become the primary objectives (unlike Game of Thrones), but as we know, real life is rarely coherent and it's usually full of plot holes (just like Game of Thrones). The extreme case of getting bamboozled by your own or someone else's story about how the world works is what has been dubbed [the narrative fallacy](https://wiki.lesswrong.com/wiki/Narrative_fallacy).  The bad news is we all do it. The good news is we can probably, at least occasionally, make some use of it.
 
